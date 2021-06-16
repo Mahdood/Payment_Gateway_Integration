@@ -12,6 +12,6 @@ TASK3 FOR GRIPAPRIL21 <br> <br>
 <br>
 ![Homepage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageFront.jpg)
 <br> <br>
-# Contact page
+Contact page
 <br>
 ![Contactpage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageContact.jpg)
