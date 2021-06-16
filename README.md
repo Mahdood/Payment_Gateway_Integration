@@ -7,10 +7,9 @@ https://thesparksfoundationsingapore.org/ <br>
 <img align="left" alt="TSF" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="250" height="320" /> <br>
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 # Payment_Gateway_Integration
-TASK3 FOR GRIPAPRIL21 <br> <br>
+TASK3 FOR GRIPAPRIL21 <br> <br> <br>
 # Homepage
 ![Homepage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageFront.jpg)
 <br> <br>
-Contact page
-<br>
+# Contact page
 ![Contactpage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageContact.jpg)
