@@ -8,4 +8,10 @@ https://thesparksfoundationsingapore.org/ <br>
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 # Payment_Gateway_Integration
 TASK3 FOR GRIPAPRIL21 <br> <br>
-![Homepage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageContact.jpg)
+Homepage
+<br>
+![Homepage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageFront.jpg)
+<br> <br>
+Contact page
+<br>
+![Contactpage](https://github.com/Mahdood/Payment_Gateway_Integration/blob/master/imageContact.jpg)
